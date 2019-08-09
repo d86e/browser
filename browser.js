@@ -29,4 +29,4 @@
     window.browser = browser;
   }
 
-}).call(this);
+})();
